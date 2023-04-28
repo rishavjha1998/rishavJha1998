@@ -3,9 +3,9 @@
   
    <p style="display: flex;justify-content: center;"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" srcset="" style="max-width: 35%;"></p>
 
-<h1 style="text-align: center;font-family: cursive;">Hi 👋, I'm Rishav Kumar
+<h1 style="align: center;font-family: cursive;">Hi 👋, I'm Rishav Kumar
 </h1>
-<h3 style="text-align: center;font-family: cursive;">A passionate Techie committed to improve day by day
+<h3 style="align: center;font-family: cursive;">A passionate Techie committed to improve day by day
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavjha1998&label=Profile%20views&color=0e75b6&style=flat" alt="rishavjha1998" /> </p>
